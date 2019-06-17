@@ -1,0 +1,6 @@
+---
+project_name: dj_file_async
+project_repo_url: git@github.com:CuriousLearner/dj-file-async-web.git
+project_repo_remote: origin
+repo_version: master
+pg_gis: False
